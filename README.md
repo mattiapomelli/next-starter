@@ -7,6 +7,7 @@ Starter project for a modern frontend.
 - Typescript
 - Eslint
 - Prettier
+- Pre-commit hook which runs formatting and linting with `husky` and `lint-staged`
 
 **Styling**
 
