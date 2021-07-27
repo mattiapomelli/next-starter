@@ -8,9 +8,6 @@ module.exports = withMDX({
     config.module.rules.push({
       test: /\.svg$/,
       exclude: /node_modules/,
-      issuer: {
-        test: /\.(js|ts)x?$/,
-      },
       use: [
         {
           loader: '@svgr/webpack',
