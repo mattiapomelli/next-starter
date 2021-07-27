@@ -10,7 +10,8 @@
     "export": "next export",
     "storybook": "start-storybook -p 6006 -s public",
     "build-storybook": "build-storybook -s public",
-    "test": "jest"
+    "test": "jest",
+    "lint": "eslint src/"
   },
   "dependencies": {
     "classnames": "^2.3.1",
