@@ -3,21 +3,26 @@ Starter project for a modern frontend.
 **Framework:** Next.js
 
 **Config**
+
 - Typescript
 - Eslint
 - Prettier
 
 **Styling**
+
 - Tailwind CSS
 
 **Components Development**
+
 - Storybook
 
 **Testing**
+
 - Jest
 - React Testing Library
 
 **Extras**
+
 - MDX
 - SEO with `next-seo`
 - Dark mode with `next-themes`
@@ -25,7 +30,6 @@ Starter project for a modern frontend.
 - Sitemap generation with `next-sitemap`
 - Absolute imports support: import your components with `@components/MyComponent` from anywhere
 - Style text content with `@tailwind/typography`
-
 
 ## Getting Started
 
