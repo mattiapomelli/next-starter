@@ -12,7 +12,7 @@
     "build-storybook": "build-storybook -s public",
     "test": "jest",
     "format": "prettier --write \"./**/*.{js,jsx,ts,tsx,json,md,mdx}\"",
-    "lint": "eslint src/",
+    "lint": "eslint --fix src/",
     "prepare": "husky install"
   },
   "dependencies": {
