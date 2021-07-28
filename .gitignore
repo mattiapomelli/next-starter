@@ -34,3 +34,5 @@ yarn-error.log*
 .vercel
 
 src/tailwind.output.css
+
+.eslintcache
